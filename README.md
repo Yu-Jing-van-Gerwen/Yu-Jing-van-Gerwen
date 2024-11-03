@@ -25,7 +25,7 @@ In my first year, I learned best practices in HTML, CSS, and JavaScript. I also 
 <br>
 In my second year, I am currently learning frameworks, such as SvelteKit and Eleventy.
 
-Here you can see all my projects, and my <a href="https://i-love-web-dun.vercel.app/">portfolio </a> provides more details about each one
+Here you can see all my projects, and my <a href="https://i-love-web-dun.vercel.app/">portfolio </a> provides more details about each one.
 <br>
 You can find me on <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb9528yw7RYecDvOa9rVhqw%3D%3D">Linkedin</a>
 
