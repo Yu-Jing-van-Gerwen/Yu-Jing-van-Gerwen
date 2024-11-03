@@ -3,6 +3,9 @@
 <!--
 **yujing-student/Yujing-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+I am currently a student and here you can see all my projects what i have worked on
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
